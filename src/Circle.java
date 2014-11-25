@@ -15,8 +15,8 @@ public class Circle
   }
   public Circle(Point a, double b)
   {
-    a=center;
-    b=radius;
+    center=a;
+    radius=b;
   }
   public double getRadius()
   {
