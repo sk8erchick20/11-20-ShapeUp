@@ -6,6 +6,7 @@ public class Circle
   public Circle()
   {
     center=new Point();
+    radius=0;
   }
   public Circle(Point startpoint, Point endpoint)
   {
